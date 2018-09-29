@@ -1,0 +1,3 @@
+[![Build Status](https://travis-ci.org/Ikaras998/sweng.svg?branch=master)](https://travis-ci.org/Ikaras998/sweng)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a56289aaa152cd5420b1/maintainability)](https://codeclimate.com/github/Ikaras998/sweng/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a56289aaa152cd5420b1/test_coverage)](https://codeclimate.com/github/Ikaras998/sweng/test_coverage)
